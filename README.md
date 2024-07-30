@@ -34,5 +34,5 @@ This graph contains **37 nodes and 109 edges**.
 </div>
 
 <div align="center">
-  <img src="./Images/Sentiment Analyzer.png" alt=" Centrality " width="50%" height="auto">
+  <img src="./Images/Sentiment Analyzer.png" alt=" Sentiment Analyzer " width="50%" height="auto">
 </div>
