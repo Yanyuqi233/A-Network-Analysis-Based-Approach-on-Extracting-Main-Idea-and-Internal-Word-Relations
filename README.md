@@ -20,4 +20,5 @@ This graph contains **37 nodes and 109 edges**.
 * H2: Thematic Word Community - Each community contains vocabulary centered around specific themes (such as ”actions”, ”reason”, etc.).
 * H3: Part of Speech Community - Each community corresponds to a part of speech (such as nouns or verbs).
 
-## Result
+## Result and Conclusion
+
