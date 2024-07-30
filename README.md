@@ -21,4 +21,18 @@ This graph contains **37 nodes and 109 edges**.
 * H3: Part of Speech Community - Each community corresponds to a part of speech (such as nouns or verbs).
 
 ## Result and Conclusion
+<div align="center">
+  <img src="./Images/Degree Distribution.png" alt=" Degree Distribution " width="50%" height="auto">
+</div>
 
+<div align="center">
+  <img src="./Images/Centrality.png" alt=" Centrality " width="50%" height="auto">
+</div>
+
+<div align="center">
+  <img src="./Images/Community Detection.png" alt=" Community Detection " width="50%" height="auto">
+</div>
+
+<div align="center">
+  <img src="./Images/Sentiment Analyzer.png" alt=" Centrality " width="50%" height="auto">
+</div>
