@@ -4,6 +4,9 @@
 **Nodes** refer to words cleaned after data processing.
 **Edges** are added between the two nodes that represent the two words if two words are in neighboring positions.
 The network has **1459 nodes and 3521 edges**, indicating the number of potential keywords and connections.
+<div align="center">
+  <img src="./Images/Degree Distribution.png" alt=" Degree Distribution " width="50%" height="auto">
+</div>
 
 ### Undirected Graph (Filtered Based on Degree)
 Select **nodes with a degree (number of connections) of 40 or greater** and add them to a subnetwork. For each neighbor of these selected nodes, if **the neighbor also has a degree of 20 or greater**, then the edge between these two nodes is added to the subnetwork. This process helps focus the analysis on highly connected parts of the network and can be used to identify key structures or clusters within the network.
@@ -21,10 +24,6 @@ This graph contains **37 nodes and 109 edges**.
 * H3: Part of Speech Community - Each community corresponds to a part of speech (such as nouns or verbs).
 
 ## Result and Conclusion
-<div align="center">
-  <img src="./Images/Degree Distribution.png" alt=" Degree Distribution " width="50%" height="auto">
-</div>
-
 <div align="center">
   <img src="./Images/Centrality.png" alt=" Centrality " width="50%" height="auto">
 </div>
