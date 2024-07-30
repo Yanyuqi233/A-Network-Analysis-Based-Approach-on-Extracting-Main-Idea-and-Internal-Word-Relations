@@ -36,3 +36,5 @@ This graph contains **37 nodes and 109 edges**.
 <div align="center">
   <img src="./Images/Sentiment Analyzer.png" alt=" Sentiment Analyzer " width="50%" height="auto">
 </div>
+
+The study validates Hypothesis 2, indicating that communities within the network are organized around vocabulary with specific thematic meanings.
