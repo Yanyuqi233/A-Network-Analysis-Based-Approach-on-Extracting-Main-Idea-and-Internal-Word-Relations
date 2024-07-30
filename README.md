@@ -29,11 +29,11 @@ This graph (Graph F) contains **37 nodes and 109 edges**.
 </div>
 
 <div align="center">
-  <img src="./Images/Community Detection.png" alt=" Community on G " width="50%" height="auto">
+  <img src="./Images/Community on G.png" alt=" Community on G " width="50%" height="auto">
 </div>
 
 <div align="center">
-  <img src="./Images/Sentiment Analyzer.png" alt=" Sentiment on F " width="50%" height="auto">
+  <img src="./Images/Sentiment on F.png" alt=" Sentiment on F " width="50%" height="auto">
 </div>
 
 The study validates Hypothesis 2, indicating that communities within the network are organized around vocabulary with specific thematic meanings.
